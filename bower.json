@@ -1,0 +1,12 @@
+{
+  "name": "bekaert.me",
+  "version": "0.1.0",
+  "authors": [
+    "Bekaert Thomas <thomas@onemore.fr>"
+  ],
+  "description": "This is my personnal website.",
+  "private": true,
+  "dependencies": {
+    "normalize.css": "~3.0.2"
+  }
+}

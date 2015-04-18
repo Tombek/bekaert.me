@@ -1,0 +1,35 @@
+{
+  "name": "bekaert.me",
+  "version": "0.1.0",
+  "description": "This is my personnal website.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Bekaert",
+  "contributors": [
+    "Thomas Bekaert <thomas@bekaert.me>"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "browser-sync": "^1.8.0",
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "^2.0.0",
+    "gulp-combine-media-queries": "^0.2.0",
+    "gulp-concat": "^2.4.2",
+    "gulp-cssshrink": "^0.1.4",
+    "gulp-imagemin": "^2.0.0",
+    "gulp-plumber": "^0.6.6",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^1.2.4",
+    "gulp-stylestats": "^0.4.0",
+    "gulp-svgmin": "^1.0.0",
+    "gulp-uglify": "^1.0.2",
+    "gulp-util": "^3.0.1",
+    "vinyl-transform": "^1.0.0"
+  },
+  "private": true
+}
